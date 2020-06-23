@@ -104,7 +104,7 @@ public class CountBugsPerMonth_ControlClass {
     		previousElem=dataChartList.get(i-1);
     		
     		//System.out.println(" elem 		  -> meese: "+elem.getMonth()+"    anno: "+elem.getYear());
-    		System.out.println("previous elem -> meese: "+previousElem.getMonth()+"    anno: "+previousElem.getYear());
+    		System.out.println("previous elem -> mese: "+previousElem.getMonth()+"    anno: "+previousElem.getYear());
     		
     		currentMonth=previousElem.getMonth();
     		newMonth=currentMonth+1;
