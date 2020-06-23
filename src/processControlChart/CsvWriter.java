@@ -1,4 +1,4 @@
-package processControlChart;
+package processcontrolchart;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -6,9 +6,9 @@ import java.io.PrintWriter;
 import java.util.List;
 
 public class CsvWriter {
-	
-	public CsvWriter() {
-		
+
+	private CsvWriter() {
+		    throw new IllegalStateException("Utility class");
 	}
 	
 	public static void write (List<Data> list) {
@@ -38,10 +38,11 @@ public class CsvWriter {
 
 		      writer.write(sb.toString());
 
-		      System.out.println("done!");
+		      //System.out.println("done!");
 
 		    } catch (FileNotFoundException e) {
-		      System.out.println(e.getMessage());
+		    	Log.infoLog(e.getMessage());
+		    	//System.out.println(e.getMessage());
 		    }
 		
 	}

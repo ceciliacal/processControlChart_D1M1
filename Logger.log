@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-06-23T23:34:32.617756Z</date>
+  <millis>1592955272617</millis>
+  <nanos>756000</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>Printing Data Chart list</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.650490100Z</date>
+  <millis>1592955272650</millis>
+  <nanos>490100</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>MONTH		YEAR		COUNT</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.651487200Z</date>
+  <millis>1592955272651</millis>
+  <nanos>487200</nanos>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2014		1</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.652555700Z</date>
+  <millis>1592955272652</millis>
+  <nanos>555700</nanos>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2014		5</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.652555700Z</date>
+  <millis>1592955272652</millis>
+  <nanos>555700</nanos>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2014		14</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.652555700Z</date>
+  <millis>1592955272652</millis>
+  <nanos>555700</nanos>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2014		40</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.652555700Z</date>
+  <millis>1592955272652</millis>
+  <nanos>555700</nanos>
+  <sequence>6</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2015		23</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.652555700Z</date>
+  <millis>1592955272652</millis>
+  <nanos>555700</nanos>
+  <sequence>7</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2015		15</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.652555700Z</date>
+  <millis>1592955272652</millis>
+  <nanos>555700</nanos>
+  <sequence>8</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2015		40</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.652555700Z</date>
+  <millis>1592955272652</millis>
+  <nanos>555700</nanos>
+  <sequence>9</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2015		38</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>10</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>5		2015		20</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>11</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>6		2015		16</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>12</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2015		30</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>13</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>8		2015		20</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>14</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>9		2015		26</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>15</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2015		39</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>16</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2015		24</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>17</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2015		33</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>18</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2016		30</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>19</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2016		20</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>20</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2016		51</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>21</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2016		26</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>22</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>5		2016		32</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>23</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>6		2016		27</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>24</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2016		17</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>25</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>8		2016		17</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>26</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>9		2016		28</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>27</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2016		42</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>28</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2016		20</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>29</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2016		24</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>30</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2017		48</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>31</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2017		25</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>32</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2017		35</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>33</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2017		31</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>34</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>5		2017		29</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>35</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>6		2017		27</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>36</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2017		21</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>37</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>8		2017		23</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>38</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>9		2017		14</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>39</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2017		17</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>40</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2017		23</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>41</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2017		25</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>42</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2018		29</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>43</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2018		20</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>44</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2018		20</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>45</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2018		23</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>46</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>5		2018		23</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>47</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>6		2018		26</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>48</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2018		20</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>49</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>8		2018		40</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>50</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>9		2018		48</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>51</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2018		18</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>52</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2018		41</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>53</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2018		21</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>54</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2019		24</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>55</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2019		33</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>56</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2019		46</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>57</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2019		34</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>58</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>5		2019		41</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>59</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>6		2019		30</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>60</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2019		44</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.655581200Z</date>
+  <millis>1592955272655</millis>
+  <nanos>581200</nanos>
+  <sequence>61</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>8		2019		60</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.671211300Z</date>
+  <millis>1592955272671</millis>
+  <nanos>211300</nanos>
+  <sequence>62</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>9		2019		28</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.671211300Z</date>
+  <millis>1592955272671</millis>
+  <nanos>211300</nanos>
+  <sequence>63</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2019		53</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.671211300Z</date>
+  <millis>1592955272671</millis>
+  <nanos>211300</nanos>
+  <sequence>64</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2019		39</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.671211300Z</date>
+  <millis>1592955272671</millis>
+  <nanos>211300</nanos>
+  <sequence>65</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2019		53</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.671211300Z</date>
+  <millis>1592955272671</millis>
+  <nanos>211300</nanos>
+  <sequence>66</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2020		39</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.671211300Z</date>
+  <millis>1592955272671</millis>
+  <nanos>211300</nanos>
+  <sequence>67</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2020		46</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.671211300Z</date>
+  <millis>1592955272671</millis>
+  <nanos>211300</nanos>
+  <sequence>68</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2020		31</message>
+</record>
+<record>
+  <date>2020-06-23T23:34:32.671211300Z</date>
+  <millis>1592955272671</millis>
+  <nanos>211300</nanos>
+  <sequence>69</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>processcontrolchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2020		4</message>
+</record>
+</log>

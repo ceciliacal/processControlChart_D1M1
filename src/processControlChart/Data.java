@@ -1,4 +1,4 @@
-package processControlChart;
+package processcontrolchart;
 
 public class Data {
 	
