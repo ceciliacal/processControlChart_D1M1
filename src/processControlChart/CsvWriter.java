@@ -1,4 +1,4 @@
-package processcontrolchart;
+package processControlChart;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -38,11 +38,11 @@ public class CsvWriter {
 
 		      writer.write(sb.toString());
 
-		      //System.out.println("done!");
+		    
 
 		    } catch (FileNotFoundException e) {
 		    	Log.infoLog(e.getMessage());
-		    	//System.out.println(e.getMessage());
+	
 		    }
 		
 	}

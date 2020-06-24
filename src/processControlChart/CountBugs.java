@@ -1,4 +1,4 @@
-package processcontrolchart;
+package processControlChart;
 
 import java.io.File;
 import java.io.IOException;
@@ -16,7 +16,7 @@ import org.eclipse.jgit.api.errors.GitAPIException;
 import org.eclipse.jgit.revwalk.RevCommit;
 import org.json.JSONException;
 
-//import project.bookkeeper.Log;
+
 
 
 
@@ -78,7 +78,7 @@ public class CountBugs {
     	lastYear=dataChartList.get(dim-1).getYear();
     	
     	//scorro lista data
-    	//se elem non è elem-1 ++ -> aggiungo alla lista un elemento in indice elem con mese= elem-1 ++ e anno lo stesso di elem (IF mese!=12 -> anno succ e mese=1) con count =0
+    	//se elem non è previousElem +1 -> aggiungo alla lista un elemento in indice elem con mese= elem-1 ++ e anno lo stesso di elem (se mese!=12 -> anno succ e mese=1) 
     	
     	//fai con while e termina quando ultimo Data = last Month, last Year
     	
@@ -95,7 +95,6 @@ public class CountBugs {
     		currentMonth=previousElem.getMonth();
     		newMonth=currentMonth+1;
     		
-    		//System.out.println("currentMonth: "+currentMonth+"    newMonth: "+newMonth);
     		
 			if (currentMonth==12) {
 				newMonth=1;
@@ -104,9 +103,7 @@ public class CountBugs {
     		
 			if (elem.getMonth()<12) {
     			if ( elem.getMonth().toString().equals(newMonth.toString()) ) {
-    				//System.out.println("elem -> mese: "+elem.getMonth()+"    anno: "+elem.getYear());
     				
-    				//System.out.println("elem da aggiungere-> mese: "+newMonth+"    anno: "+elem.getYear());
     				dataChartList.add(i, new Data(elem.getYear(),newMonth, 0));
     			
     			}
@@ -114,8 +111,8 @@ public class CountBugs {
 			else {
 
 	    		if (dataChartList.get(i+1).getMonth()!=1 && dataChartList.get(i+1).getYear()!=elem.getYear()+1) {
-	    				
-	    				//System.out.println("anno succ. sbagliato! ");
+	    				Log.infoLog("anno succ. sbagliato! ");
+	    				return;
 	    			}
 			}
 
@@ -160,12 +157,10 @@ public class CountBugs {
         }
     	
     	//get ticket ID list
-    	List<String> ticketIDList = new ArrayList<>();
-    	
-    	
-    	//GetTicketID ls= new GetTicketID();
 
-    	ticketIDList= GetTicketID.getIDList();
+        List<String> ticketIDList = GetTicketID.getIDList();
+    	
+    	
     	
     	len=ticketIDList.size();
     	
@@ -250,7 +245,6 @@ public class CountBugs {
     		
     		for (int i=0;i<dateList.size();i++) {
     			
-    			//System.out.println("j=  "+j+" i= "+i+" -- mese dateList= "+dateList.get(i).getMonthValue()+" -- mese chartList= "+dataChartList.get(j).month+" --  anno dateList= "+dateList.get(i).getYear()+" --  anno chartList= "+dataChartList.get(j).year);
     			if ((dateList.get(i).getMonthValue() == dataChartList.get(j).getMonth()) && (dateList.get(i).getYear() == dataChartList.get(j).getYear())) {
     				count++;	
     			}			
@@ -270,7 +264,6 @@ public class CountBugs {
     	
     	Log.infoLog("Printing Data Chart list");
     	Log.infoLog("MONTH"+"\t\t"+"YEAR"+"\t\t"+"COUNT");
-    	//System.out.println("Printing Data Chart list");
     	//System.out.println("MONTH"+"		"+"YEAR"+"		"+"COUNT");
     	
     	for (int i=0;i<list.size();i++) {

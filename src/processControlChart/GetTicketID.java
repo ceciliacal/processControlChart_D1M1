@@ -1,4 +1,4 @@
-package processcontrolchart;
+package processControlChart;
 
 
 import java.io.BufferedReader;
@@ -7,7 +7,6 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.Reader;
 import java.net.URL;
-import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.List;
@@ -96,11 +95,11 @@ public class GetTicketID {
             //Iterate through each bug
             String key = issues.getJSONObject(i%1000).get("key").toString();
             insertID(ticketIDList,key);
-            //System.out.println("ho inserito " + key + " nella lista");
+
          }  
       } while (i < total);
      
-      //System.out.println("Stampo lista: "+ getIDList2(ticketIDList));
+
       //System.out.println("Stampo lista: "+ ticketIDList);
       return ticketIDList;
    }
