@@ -221,7 +221,6 @@ public class CountBugs {
     	
     	//Collections.frequency(list.values(), )
     	List<LocalDate> dateList= new ArrayList<> (((HashMap<String,LocalDate>) list).values());
-    	int count;
     	int j;
     	  
     	//inserisco elementi diversi in lista DataChart in base al mese e all'anno, settando l'attributo count a 0

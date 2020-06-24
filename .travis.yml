@@ -5,12 +5,12 @@ jdk:
 addons:
   sonarcloud:
     organization: "ceciliacal"
-    token: "bafc00e701bb7003e4c4bace5a4895a92f20e9ae" 
+    token: "5df0dedf6e6bfdc05a7f5404d0927102861cf159" 
 
 script:
   - ant build
   - sonar-scanner
-  
+
  
 
 
