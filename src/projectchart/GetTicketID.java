@@ -100,7 +100,6 @@ public class GetTicketID {
       } while (i < total);
      
 
-      //System.out.println("Stampo lista: "+ ticketIDList);
       return ticketIDList;
    }
 }

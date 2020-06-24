@@ -92,8 +92,6 @@ public class CountBugs {
     		elem=dataChartList.get(i);
     		previousElem=dataChartList.get(i-1);
     		
-    		//System.out.println(" elem 		  -> meese: "+elem.getMonth()+"    anno: "+elem.getYear());
-    		//System.out.println("previous elem -> mese: "+previousElem.getMonth()+"    anno: "+previousElem.getYear());
     		
     		currentMonth=previousElem.getMonth();
     		newMonth=currentMonth+1;
@@ -121,7 +119,6 @@ public class CountBugs {
 
     		
     		i++;
-    		//System.out.println("---------------------------------------");
 
 	
     	}
@@ -271,10 +268,8 @@ public class CountBugs {
     	
     	Log.infoLog("Printing Data Chart list");
     	Log.infoLog("MONTH"+"\t\t"+"YEAR"+"\t\t"+"COUNT");
-    	//System.out.println("MONTH"+"		"+"YEAR"+"		"+"COUNT");
     	
     	for (int i=0;i<list.size();i++) {
-    		//System.out.println(list.get(i).getMonth()+"		"+list.get(i).getYear()+"		"+list.get(i).getCount());
     		Log.infoLog(list.get(i).getMonth()+"\t\t"+list.get(i).getYear()+"\t\t"+list.get(i).getCount());
     	}
     	
