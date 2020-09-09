@@ -3374,3 +3374,2535 @@
   <message>4		2020		4</message>
 </record>
 </log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-06-25T11:03:03.357584800Z</date>
+  <millis>1593082983357</millis>
+  <nanos>584800</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>Printing Data Chart list</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.381527700Z</date>
+  <millis>1593082983381</millis>
+  <nanos>527700</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>MONTH		YEAR		COUNT</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.382511200Z</date>
+  <millis>1593082983382</millis>
+  <nanos>511200</nanos>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2014		1</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.382511200Z</date>
+  <millis>1593082983382</millis>
+  <nanos>511200</nanos>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2014		5</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.383520Z</date>
+  <millis>1593082983383</millis>
+  <nanos>520000</nanos>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2014		14</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.383520Z</date>
+  <millis>1593082983383</millis>
+  <nanos>520000</nanos>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2014		40</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.384506Z</date>
+  <millis>1593082983384</millis>
+  <nanos>506000</nanos>
+  <sequence>6</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2015		23</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.384506Z</date>
+  <millis>1593082983384</millis>
+  <nanos>506000</nanos>
+  <sequence>7</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2015		15</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.384506Z</date>
+  <millis>1593082983384</millis>
+  <nanos>506000</nanos>
+  <sequence>8</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2015		40</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.385503200Z</date>
+  <millis>1593082983385</millis>
+  <nanos>503200</nanos>
+  <sequence>9</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2015		38</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.385503200Z</date>
+  <millis>1593082983385</millis>
+  <nanos>503200</nanos>
+  <sequence>10</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>5		2015		20</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.385503200Z</date>
+  <millis>1593082983385</millis>
+  <nanos>503200</nanos>
+  <sequence>11</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>6		2015		16</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.386500700Z</date>
+  <millis>1593082983386</millis>
+  <nanos>500700</nanos>
+  <sequence>12</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2015		30</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.386500700Z</date>
+  <millis>1593082983386</millis>
+  <nanos>500700</nanos>
+  <sequence>13</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>8		2015		20</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.387497500Z</date>
+  <millis>1593082983387</millis>
+  <nanos>497500</nanos>
+  <sequence>14</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>9		2015		26</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.387497500Z</date>
+  <millis>1593082983387</millis>
+  <nanos>497500</nanos>
+  <sequence>15</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2015		39</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.387497500Z</date>
+  <millis>1593082983387</millis>
+  <nanos>497500</nanos>
+  <sequence>16</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2015		24</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.388494800Z</date>
+  <millis>1593082983388</millis>
+  <nanos>494800</nanos>
+  <sequence>17</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2015		33</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.388494800Z</date>
+  <millis>1593082983388</millis>
+  <nanos>494800</nanos>
+  <sequence>18</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2016		30</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.388494800Z</date>
+  <millis>1593082983388</millis>
+  <nanos>494800</nanos>
+  <sequence>19</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2016		20</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.389492700Z</date>
+  <millis>1593082983389</millis>
+  <nanos>492700</nanos>
+  <sequence>20</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2016		51</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.389492700Z</date>
+  <millis>1593082983389</millis>
+  <nanos>492700</nanos>
+  <sequence>21</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2016		26</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.389492700Z</date>
+  <millis>1593082983389</millis>
+  <nanos>492700</nanos>
+  <sequence>22</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>5		2016		32</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.390489700Z</date>
+  <millis>1593082983390</millis>
+  <nanos>489700</nanos>
+  <sequence>23</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>6		2016		27</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.390489700Z</date>
+  <millis>1593082983390</millis>
+  <nanos>489700</nanos>
+  <sequence>24</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2016		17</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.390489700Z</date>
+  <millis>1593082983390</millis>
+  <nanos>489700</nanos>
+  <sequence>25</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>8		2016		17</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.390489700Z</date>
+  <millis>1593082983390</millis>
+  <nanos>489700</nanos>
+  <sequence>26</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>9		2016		28</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.391487800Z</date>
+  <millis>1593082983391</millis>
+  <nanos>487800</nanos>
+  <sequence>27</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2016		42</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.391487800Z</date>
+  <millis>1593082983391</millis>
+  <nanos>487800</nanos>
+  <sequence>28</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2016		20</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.392484800Z</date>
+  <millis>1593082983392</millis>
+  <nanos>484800</nanos>
+  <sequence>29</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2016		24</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.392484800Z</date>
+  <millis>1593082983392</millis>
+  <nanos>484800</nanos>
+  <sequence>30</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2017		48</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.393482200Z</date>
+  <millis>1593082983393</millis>
+  <nanos>482200</nanos>
+  <sequence>31</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2017		25</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.393482200Z</date>
+  <millis>1593082983393</millis>
+  <nanos>482200</nanos>
+  <sequence>32</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2017		35</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.393482200Z</date>
+  <millis>1593082983393</millis>
+  <nanos>482200</nanos>
+  <sequence>33</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2017		31</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.394488500Z</date>
+  <millis>1593082983394</millis>
+  <nanos>488500</nanos>
+  <sequence>34</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>5		2017		29</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.394488500Z</date>
+  <millis>1593082983394</millis>
+  <nanos>488500</nanos>
+  <sequence>35</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>6		2017		27</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.395476600Z</date>
+  <millis>1593082983395</millis>
+  <nanos>476600</nanos>
+  <sequence>36</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2017		21</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.395476600Z</date>
+  <millis>1593082983395</millis>
+  <nanos>476600</nanos>
+  <sequence>37</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>8		2017		23</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.395476600Z</date>
+  <millis>1593082983395</millis>
+  <nanos>476600</nanos>
+  <sequence>38</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>9		2017		14</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.395476600Z</date>
+  <millis>1593082983395</millis>
+  <nanos>476600</nanos>
+  <sequence>39</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2017		17</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.396473800Z</date>
+  <millis>1593082983396</millis>
+  <nanos>473800</nanos>
+  <sequence>40</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2017		23</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.396473800Z</date>
+  <millis>1593082983396</millis>
+  <nanos>473800</nanos>
+  <sequence>41</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2017		25</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.396473800Z</date>
+  <millis>1593082983396</millis>
+  <nanos>473800</nanos>
+  <sequence>42</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2018		29</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.396473800Z</date>
+  <millis>1593082983396</millis>
+  <nanos>473800</nanos>
+  <sequence>43</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2018		20</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.397471200Z</date>
+  <millis>1593082983397</millis>
+  <nanos>471200</nanos>
+  <sequence>44</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2018		20</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.397471200Z</date>
+  <millis>1593082983397</millis>
+  <nanos>471200</nanos>
+  <sequence>45</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2018		23</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.397471200Z</date>
+  <millis>1593082983397</millis>
+  <nanos>471200</nanos>
+  <sequence>46</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>5		2018		23</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.397471200Z</date>
+  <millis>1593082983397</millis>
+  <nanos>471200</nanos>
+  <sequence>47</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>6		2018		26</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.398468800Z</date>
+  <millis>1593082983398</millis>
+  <nanos>468800</nanos>
+  <sequence>48</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2018		20</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.398468800Z</date>
+  <millis>1593082983398</millis>
+  <nanos>468800</nanos>
+  <sequence>49</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>8		2018		40</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.398468800Z</date>
+  <millis>1593082983398</millis>
+  <nanos>468800</nanos>
+  <sequence>50</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>9		2018		48</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.398468800Z</date>
+  <millis>1593082983398</millis>
+  <nanos>468800</nanos>
+  <sequence>51</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2018		18</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.399471900Z</date>
+  <millis>1593082983399</millis>
+  <nanos>471900</nanos>
+  <sequence>52</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2018		41</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.399471900Z</date>
+  <millis>1593082983399</millis>
+  <nanos>471900</nanos>
+  <sequence>53</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2018		21</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.399471900Z</date>
+  <millis>1593082983399</millis>
+  <nanos>471900</nanos>
+  <sequence>54</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2019		24</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.400463900Z</date>
+  <millis>1593082983400</millis>
+  <nanos>463900</nanos>
+  <sequence>55</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2019		33</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.400463900Z</date>
+  <millis>1593082983400</millis>
+  <nanos>463900</nanos>
+  <sequence>56</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2019		46</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.400463900Z</date>
+  <millis>1593082983400</millis>
+  <nanos>463900</nanos>
+  <sequence>57</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2019		34</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.400463900Z</date>
+  <millis>1593082983400</millis>
+  <nanos>463900</nanos>
+  <sequence>58</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>5		2019		41</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.401461300Z</date>
+  <millis>1593082983401</millis>
+  <nanos>461300</nanos>
+  <sequence>59</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>6		2019		30</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.401461300Z</date>
+  <millis>1593082983401</millis>
+  <nanos>461300</nanos>
+  <sequence>60</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2019		44</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.401461300Z</date>
+  <millis>1593082983401</millis>
+  <nanos>461300</nanos>
+  <sequence>61</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>8		2019		60</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.401461300Z</date>
+  <millis>1593082983401</millis>
+  <nanos>461300</nanos>
+  <sequence>62</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>9		2019		28</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.402458200Z</date>
+  <millis>1593082983402</millis>
+  <nanos>458200</nanos>
+  <sequence>63</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2019		53</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.402458200Z</date>
+  <millis>1593082983402</millis>
+  <nanos>458200</nanos>
+  <sequence>64</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2019		39</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.402458200Z</date>
+  <millis>1593082983402</millis>
+  <nanos>458200</nanos>
+  <sequence>65</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2019		53</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.403456100Z</date>
+  <millis>1593082983403</millis>
+  <nanos>456100</nanos>
+  <sequence>66</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2020		39</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.403456100Z</date>
+  <millis>1593082983403</millis>
+  <nanos>456100</nanos>
+  <sequence>67</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2020		46</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.403456100Z</date>
+  <millis>1593082983403</millis>
+  <nanos>456100</nanos>
+  <sequence>68</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2020		31</message>
+</record>
+<record>
+  <date>2020-06-25T11:03:03.404455900Z</date>
+  <millis>1593082983404</millis>
+  <nanos>455900</nanos>
+  <sequence>69</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2020		4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-07T19:35:50.899368700Z</date>
+  <millis>1599507350899</millis>
+  <nanos>368700</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>Printing Data Chart list</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.015010900Z</date>
+  <millis>1599507351015</millis>
+  <nanos>10900</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>MONTH		YEAR		COUNT</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.016007600Z</date>
+  <millis>1599507351016</millis>
+  <nanos>7600</nanos>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2014		1</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.017006200Z</date>
+  <millis>1599507351017</millis>
+  <nanos>6200</nanos>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2014		5</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.017006200Z</date>
+  <millis>1599507351017</millis>
+  <nanos>6200</nanos>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2014		14</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.017006200Z</date>
+  <millis>1599507351017</millis>
+  <nanos>6200</nanos>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2014		40</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.018003300Z</date>
+  <millis>1599507351018</millis>
+  <nanos>3300</nanos>
+  <sequence>6</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2015		23</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.018003300Z</date>
+  <millis>1599507351018</millis>
+  <nanos>3300</nanos>
+  <sequence>7</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2015		15</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.019002100Z</date>
+  <millis>1599507351019</millis>
+  <nanos>2100</nanos>
+  <sequence>8</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2015		40</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.019002100Z</date>
+  <millis>1599507351019</millis>
+  <nanos>2100</nanos>
+  <sequence>9</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2015		38</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.019002100Z</date>
+  <millis>1599507351019</millis>
+  <nanos>2100</nanos>
+  <sequence>10</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>5		2015		20</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.019002100Z</date>
+  <millis>1599507351019</millis>
+  <nanos>2100</nanos>
+  <sequence>11</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>6		2015		16</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.019998200Z</date>
+  <millis>1599507351019</millis>
+  <nanos>998200</nanos>
+  <sequence>12</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2015		30</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.019998200Z</date>
+  <millis>1599507351019</millis>
+  <nanos>998200</nanos>
+  <sequence>13</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>8		2015		20</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.020994900Z</date>
+  <millis>1599507351020</millis>
+  <nanos>994900</nanos>
+  <sequence>14</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>9		2015		26</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.020994900Z</date>
+  <millis>1599507351020</millis>
+  <nanos>994900</nanos>
+  <sequence>15</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2015		39</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.021992900Z</date>
+  <millis>1599507351021</millis>
+  <nanos>992900</nanos>
+  <sequence>16</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2015		24</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.021992900Z</date>
+  <millis>1599507351021</millis>
+  <nanos>992900</nanos>
+  <sequence>17</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2015		33</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.021992900Z</date>
+  <millis>1599507351021</millis>
+  <nanos>992900</nanos>
+  <sequence>18</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2016		30</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.022989400Z</date>
+  <millis>1599507351022</millis>
+  <nanos>989400</nanos>
+  <sequence>19</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2016		20</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.022989400Z</date>
+  <millis>1599507351022</millis>
+  <nanos>989400</nanos>
+  <sequence>20</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2016		51</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.022989400Z</date>
+  <millis>1599507351022</millis>
+  <nanos>989400</nanos>
+  <sequence>21</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2016		26</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.023987500Z</date>
+  <millis>1599507351023</millis>
+  <nanos>987500</nanos>
+  <sequence>22</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>5		2016		32</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.023987500Z</date>
+  <millis>1599507351023</millis>
+  <nanos>987500</nanos>
+  <sequence>23</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>6		2016		27</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.023987500Z</date>
+  <millis>1599507351023</millis>
+  <nanos>987500</nanos>
+  <sequence>24</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2016		17</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.024984100Z</date>
+  <millis>1599507351024</millis>
+  <nanos>984100</nanos>
+  <sequence>25</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>8		2016		17</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.024984100Z</date>
+  <millis>1599507351024</millis>
+  <nanos>984100</nanos>
+  <sequence>26</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>9		2016		28</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.024984100Z</date>
+  <millis>1599507351024</millis>
+  <nanos>984100</nanos>
+  <sequence>27</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2016		42</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.024984100Z</date>
+  <millis>1599507351024</millis>
+  <nanos>984100</nanos>
+  <sequence>28</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2016		20</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.025982400Z</date>
+  <millis>1599507351025</millis>
+  <nanos>982400</nanos>
+  <sequence>29</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2016		24</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.025982400Z</date>
+  <millis>1599507351025</millis>
+  <nanos>982400</nanos>
+  <sequence>30</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2017		48</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.025982400Z</date>
+  <millis>1599507351025</millis>
+  <nanos>982400</nanos>
+  <sequence>31</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2017		25</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.025982400Z</date>
+  <millis>1599507351025</millis>
+  <nanos>982400</nanos>
+  <sequence>32</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2017		35</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.026978900Z</date>
+  <millis>1599507351026</millis>
+  <nanos>978900</nanos>
+  <sequence>33</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2017		31</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.026978900Z</date>
+  <millis>1599507351026</millis>
+  <nanos>978900</nanos>
+  <sequence>34</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>5		2017		29</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.026978900Z</date>
+  <millis>1599507351026</millis>
+  <nanos>978900</nanos>
+  <sequence>35</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>6		2017		27</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.026978900Z</date>
+  <millis>1599507351026</millis>
+  <nanos>978900</nanos>
+  <sequence>36</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2017		21</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.027976400Z</date>
+  <millis>1599507351027</millis>
+  <nanos>976400</nanos>
+  <sequence>37</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>8		2017		23</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.027976400Z</date>
+  <millis>1599507351027</millis>
+  <nanos>976400</nanos>
+  <sequence>38</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>9		2017		14</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.027976400Z</date>
+  <millis>1599507351027</millis>
+  <nanos>976400</nanos>
+  <sequence>39</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2017		17</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.028973900Z</date>
+  <millis>1599507351028</millis>
+  <nanos>973900</nanos>
+  <sequence>40</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2017		23</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.028973900Z</date>
+  <millis>1599507351028</millis>
+  <nanos>973900</nanos>
+  <sequence>41</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2017		25</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.028973900Z</date>
+  <millis>1599507351028</millis>
+  <nanos>973900</nanos>
+  <sequence>42</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2018		29</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.029970200Z</date>
+  <millis>1599507351029</millis>
+  <nanos>970200</nanos>
+  <sequence>43</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2018		20</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.029970200Z</date>
+  <millis>1599507351029</millis>
+  <nanos>970200</nanos>
+  <sequence>44</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2018		20</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.030970900Z</date>
+  <millis>1599507351030</millis>
+  <nanos>970900</nanos>
+  <sequence>45</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2018		23</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.030970900Z</date>
+  <millis>1599507351030</millis>
+  <nanos>970900</nanos>
+  <sequence>46</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>5		2018		23</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.030970900Z</date>
+  <millis>1599507351030</millis>
+  <nanos>970900</nanos>
+  <sequence>47</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>6		2018		26</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.030970900Z</date>
+  <millis>1599507351030</millis>
+  <nanos>970900</nanos>
+  <sequence>48</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2018		20</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.030970900Z</date>
+  <millis>1599507351030</millis>
+  <nanos>970900</nanos>
+  <sequence>49</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>8		2018		40</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.031964700Z</date>
+  <millis>1599507351031</millis>
+  <nanos>964700</nanos>
+  <sequence>50</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>9		2018		48</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.031964700Z</date>
+  <millis>1599507351031</millis>
+  <nanos>964700</nanos>
+  <sequence>51</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2018		18</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.031964700Z</date>
+  <millis>1599507351031</millis>
+  <nanos>964700</nanos>
+  <sequence>52</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2018		41</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.031964700Z</date>
+  <millis>1599507351031</millis>
+  <nanos>964700</nanos>
+  <sequence>53</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2018		21</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.032963Z</date>
+  <millis>1599507351032</millis>
+  <nanos>963000</nanos>
+  <sequence>54</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2019		24</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.032963Z</date>
+  <millis>1599507351032</millis>
+  <nanos>963000</nanos>
+  <sequence>55</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2019		33</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.032963Z</date>
+  <millis>1599507351032</millis>
+  <nanos>963000</nanos>
+  <sequence>56</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2019		46</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.032963Z</date>
+  <millis>1599507351032</millis>
+  <nanos>963000</nanos>
+  <sequence>57</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2019		34</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.032963Z</date>
+  <millis>1599507351032</millis>
+  <nanos>963000</nanos>
+  <sequence>58</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>5		2019		41</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.033960300Z</date>
+  <millis>1599507351033</millis>
+  <nanos>960300</nanos>
+  <sequence>59</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>6		2019		30</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.033960300Z</date>
+  <millis>1599507351033</millis>
+  <nanos>960300</nanos>
+  <sequence>60</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2019		44</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.033960300Z</date>
+  <millis>1599507351033</millis>
+  <nanos>960300</nanos>
+  <sequence>61</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>8		2019		60</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.033960300Z</date>
+  <millis>1599507351033</millis>
+  <nanos>960300</nanos>
+  <sequence>62</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>9		2019		28</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.034958100Z</date>
+  <millis>1599507351034</millis>
+  <nanos>958100</nanos>
+  <sequence>63</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2019		53</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.034958100Z</date>
+  <millis>1599507351034</millis>
+  <nanos>958100</nanos>
+  <sequence>64</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2019		39</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.034958100Z</date>
+  <millis>1599507351034</millis>
+  <nanos>958100</nanos>
+  <sequence>65</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2019		53</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.034958100Z</date>
+  <millis>1599507351034</millis>
+  <nanos>958100</nanos>
+  <sequence>66</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2020		39</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.034958100Z</date>
+  <millis>1599507351034</millis>
+  <nanos>958100</nanos>
+  <sequence>67</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2020		46</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.035955100Z</date>
+  <millis>1599507351035</millis>
+  <nanos>955100</nanos>
+  <sequence>68</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2020		31</message>
+</record>
+<record>
+  <date>2020-09-07T19:35:51.035955100Z</date>
+  <millis>1599507351035</millis>
+  <nanos>955100</nanos>
+  <sequence>69</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2020		4</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-08T02:12:54.395181Z</date>
+  <millis>1599531174395</millis>
+  <nanos>181000</nanos>
+  <sequence>0</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>Printing Data Chart list</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.420114800Z</date>
+  <millis>1599531174420</millis>
+  <nanos>114800</nanos>
+  <sequence>1</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>MONTH		YEAR		COUNT</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.421129800Z</date>
+  <millis>1599531174421</millis>
+  <nanos>129800</nanos>
+  <sequence>2</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2014		1</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.421129800Z</date>
+  <millis>1599531174421</millis>
+  <nanos>129800</nanos>
+  <sequence>3</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2014		5</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.422109200Z</date>
+  <millis>1599531174422</millis>
+  <nanos>109200</nanos>
+  <sequence>4</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2014		14</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.422109200Z</date>
+  <millis>1599531174422</millis>
+  <nanos>109200</nanos>
+  <sequence>5</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2014		40</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.422109200Z</date>
+  <millis>1599531174422</millis>
+  <nanos>109200</nanos>
+  <sequence>6</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2015		23</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.423106900Z</date>
+  <millis>1599531174423</millis>
+  <nanos>106900</nanos>
+  <sequence>7</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2015		15</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.424103800Z</date>
+  <millis>1599531174424</millis>
+  <nanos>103800</nanos>
+  <sequence>8</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2015		40</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.424103800Z</date>
+  <millis>1599531174424</millis>
+  <nanos>103800</nanos>
+  <sequence>9</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2015		38</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.424103800Z</date>
+  <millis>1599531174424</millis>
+  <nanos>103800</nanos>
+  <sequence>10</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>5		2015		20</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.425099700Z</date>
+  <millis>1599531174425</millis>
+  <nanos>99700</nanos>
+  <sequence>11</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>6		2015		16</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.425099700Z</date>
+  <millis>1599531174425</millis>
+  <nanos>99700</nanos>
+  <sequence>12</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2015		30</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.425099700Z</date>
+  <millis>1599531174425</millis>
+  <nanos>99700</nanos>
+  <sequence>13</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>8		2015		20</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.426097200Z</date>
+  <millis>1599531174426</millis>
+  <nanos>97200</nanos>
+  <sequence>14</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>9		2015		26</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.426097200Z</date>
+  <millis>1599531174426</millis>
+  <nanos>97200</nanos>
+  <sequence>15</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2015		39</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.426097200Z</date>
+  <millis>1599531174426</millis>
+  <nanos>97200</nanos>
+  <sequence>16</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2015		24</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.427094400Z</date>
+  <millis>1599531174427</millis>
+  <nanos>94400</nanos>
+  <sequence>17</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2015		33</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.427094400Z</date>
+  <millis>1599531174427</millis>
+  <nanos>94400</nanos>
+  <sequence>18</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2016		30</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.428091500Z</date>
+  <millis>1599531174428</millis>
+  <nanos>91500</nanos>
+  <sequence>19</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2016		20</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.428091500Z</date>
+  <millis>1599531174428</millis>
+  <nanos>91500</nanos>
+  <sequence>20</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2016		51</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.428091500Z</date>
+  <millis>1599531174428</millis>
+  <nanos>91500</nanos>
+  <sequence>21</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2016		26</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.429092100Z</date>
+  <millis>1599531174429</millis>
+  <nanos>92100</nanos>
+  <sequence>22</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>5		2016		32</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.429092100Z</date>
+  <millis>1599531174429</millis>
+  <nanos>92100</nanos>
+  <sequence>23</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>6		2016		27</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.429092100Z</date>
+  <millis>1599531174429</millis>
+  <nanos>92100</nanos>
+  <sequence>24</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2016		17</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.430086400Z</date>
+  <millis>1599531174430</millis>
+  <nanos>86400</nanos>
+  <sequence>25</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>8		2016		17</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.430086400Z</date>
+  <millis>1599531174430</millis>
+  <nanos>86400</nanos>
+  <sequence>26</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>9		2016		28</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.430086400Z</date>
+  <millis>1599531174430</millis>
+  <nanos>86400</nanos>
+  <sequence>27</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2016		42</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.431083900Z</date>
+  <millis>1599531174431</millis>
+  <nanos>83900</nanos>
+  <sequence>28</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2016		20</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.431083900Z</date>
+  <millis>1599531174431</millis>
+  <nanos>83900</nanos>
+  <sequence>29</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2016		24</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.431083900Z</date>
+  <millis>1599531174431</millis>
+  <nanos>83900</nanos>
+  <sequence>30</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2017		48</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.432080900Z</date>
+  <millis>1599531174432</millis>
+  <nanos>80900</nanos>
+  <sequence>31</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2017		25</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.432080900Z</date>
+  <millis>1599531174432</millis>
+  <nanos>80900</nanos>
+  <sequence>32</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2017		35</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.432080900Z</date>
+  <millis>1599531174432</millis>
+  <nanos>80900</nanos>
+  <sequence>33</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2017		31</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.433078700Z</date>
+  <millis>1599531174433</millis>
+  <nanos>78700</nanos>
+  <sequence>34</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>5		2017		29</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.433078700Z</date>
+  <millis>1599531174433</millis>
+  <nanos>78700</nanos>
+  <sequence>35</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>6		2017		27</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.433078700Z</date>
+  <millis>1599531174433</millis>
+  <nanos>78700</nanos>
+  <sequence>36</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2017		21</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.434082600Z</date>
+  <millis>1599531174434</millis>
+  <nanos>82600</nanos>
+  <sequence>37</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>8		2017		23</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.434082600Z</date>
+  <millis>1599531174434</millis>
+  <nanos>82600</nanos>
+  <sequence>38</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>9		2017		14</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.434082600Z</date>
+  <millis>1599531174434</millis>
+  <nanos>82600</nanos>
+  <sequence>39</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2017		17</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.435073300Z</date>
+  <millis>1599531174435</millis>
+  <nanos>73300</nanos>
+  <sequence>40</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2017		23</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.435073300Z</date>
+  <millis>1599531174435</millis>
+  <nanos>73300</nanos>
+  <sequence>41</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2017		25</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.435073300Z</date>
+  <millis>1599531174435</millis>
+  <nanos>73300</nanos>
+  <sequence>42</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2018		29</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.436070300Z</date>
+  <millis>1599531174436</millis>
+  <nanos>70300</nanos>
+  <sequence>43</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2018		20</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.436070300Z</date>
+  <millis>1599531174436</millis>
+  <nanos>70300</nanos>
+  <sequence>44</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2018		20</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.436070300Z</date>
+  <millis>1599531174436</millis>
+  <nanos>70300</nanos>
+  <sequence>45</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2018		23</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.436070300Z</date>
+  <millis>1599531174436</millis>
+  <nanos>70300</nanos>
+  <sequence>46</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>5		2018		23</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.437067700Z</date>
+  <millis>1599531174437</millis>
+  <nanos>67700</nanos>
+  <sequence>47</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>6		2018		26</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.437067700Z</date>
+  <millis>1599531174437</millis>
+  <nanos>67700</nanos>
+  <sequence>48</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2018		20</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.437067700Z</date>
+  <millis>1599531174437</millis>
+  <nanos>67700</nanos>
+  <sequence>49</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>8		2018		40</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.438065100Z</date>
+  <millis>1599531174438</millis>
+  <nanos>65100</nanos>
+  <sequence>50</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>9		2018		48</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.438065100Z</date>
+  <millis>1599531174438</millis>
+  <nanos>65100</nanos>
+  <sequence>51</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2018		18</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.438065100Z</date>
+  <millis>1599531174438</millis>
+  <nanos>65100</nanos>
+  <sequence>52</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2018		41</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.438065100Z</date>
+  <millis>1599531174438</millis>
+  <nanos>65100</nanos>
+  <sequence>53</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2018		21</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.438065100Z</date>
+  <millis>1599531174438</millis>
+  <nanos>65100</nanos>
+  <sequence>54</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2019		24</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.439062400Z</date>
+  <millis>1599531174439</millis>
+  <nanos>62400</nanos>
+  <sequence>55</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2019		33</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.439062400Z</date>
+  <millis>1599531174439</millis>
+  <nanos>62400</nanos>
+  <sequence>56</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2019		46</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.439062400Z</date>
+  <millis>1599531174439</millis>
+  <nanos>62400</nanos>
+  <sequence>57</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2019		34</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.440072100Z</date>
+  <millis>1599531174440</millis>
+  <nanos>72100</nanos>
+  <sequence>58</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>5		2019		41</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.440072100Z</date>
+  <millis>1599531174440</millis>
+  <nanos>72100</nanos>
+  <sequence>59</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>6		2019		30</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.440072100Z</date>
+  <millis>1599531174440</millis>
+  <nanos>72100</nanos>
+  <sequence>60</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>7		2019		44</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.440072100Z</date>
+  <millis>1599531174440</millis>
+  <nanos>72100</nanos>
+  <sequence>61</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>8		2019		60</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.441056600Z</date>
+  <millis>1599531174441</millis>
+  <nanos>56600</nanos>
+  <sequence>62</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>9		2019		28</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.441056600Z</date>
+  <millis>1599531174441</millis>
+  <nanos>56600</nanos>
+  <sequence>63</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>10		2019		53</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.441056600Z</date>
+  <millis>1599531174441</millis>
+  <nanos>56600</nanos>
+  <sequence>64</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>11		2019		39</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.441056600Z</date>
+  <millis>1599531174441</millis>
+  <nanos>56600</nanos>
+  <sequence>65</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>12		2019		53</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.441056600Z</date>
+  <millis>1599531174441</millis>
+  <nanos>56600</nanos>
+  <sequence>66</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>1		2020		39</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.442054100Z</date>
+  <millis>1599531174442</millis>
+  <nanos>54100</nanos>
+  <sequence>67</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>2		2020		46</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.442054100Z</date>
+  <millis>1599531174442</millis>
+  <nanos>54100</nanos>
+  <sequence>68</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>3		2020		31</message>
+</record>
+<record>
+  <date>2020-09-08T02:12:54.442054100Z</date>
+  <millis>1599531174442</millis>
+  <nanos>54100</nanos>
+  <sequence>69</sequence>
+  <logger>global</logger>
+  <level>INFO</level>
+  <class>projectchart.Log</class>
+  <method>infoLog</method>
+  <thread>1</thread>
+  <message>4		2020		4</message>
+</record>
+</log>
