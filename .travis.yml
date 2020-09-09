@@ -5,7 +5,7 @@ jdk:
 addons:
   sonarcloud:
     organization: "ceciliacal"
-    token: "processControlChart_D1M1" 
+    token: "ac6d5799265eb297b8b56fdac3264e2040d45265" 
 
 script:
   - ant build
